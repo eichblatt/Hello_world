@@ -11,3 +11,7 @@ At some point, I might have my own web address, which I can point to this site.
 Thank you github.
 
 [This page is at http://eichblatt.github.io/Hello_world/](http://eichblatt.github.io/Hello_world/)
+
+## References
+
+Here is a useful [markdown reference page](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
