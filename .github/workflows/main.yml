@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@releases
+        uses: actions/checkout@master
         with:
           fetch-depth: 2
 
